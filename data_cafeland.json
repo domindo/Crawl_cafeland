@@ -1,0 +1,1353 @@
+[
+    {
+        "Tên Dự án": "Khu đô thị Hà Phương Hải Dương",
+        "Diện tích": " 190.264,94 m2",
+        "Vị trí": "Số 6 Nguyễn Nghi, thị trấn Thanh Miện, huyện Thanh Miện, tỉnh Hải Dương",
+        "Loại hình": "Shophouse, nhà liền kề",
+        "Chủ đầu tư": "Công ty Cổ phần Tập đoàn Hà Phương"
+    },
+    {
+        "Tên Dự án": "Đất Nam An Lạc",
+        "Diện tích": "2.806 m2",
+        "Vị trí": "Số 103 Hồ Ngọc Lãm, vị trí đắc địa tại quận Bình Tân, thành phố Hồ Chí Minh",
+        "Loại hình": "Đất nền",
+        "Chủ đầu tư": "Công ty Cổ phần Tập đoàn Đất Nam"
+    },
+    {
+        "Tên Dự án": "Khu đô thị Mạnh Đức Residence Park",
+        "Diện tích": "13,48 ha",
+        "Vị trí": "Đường Nguyên Phi Ỷ Lan, phường Tân Hồng, thành Phố Từ Sơn, tỉnh Bắc Ninh",
+        "Loại hình": "Biệt thự, shophouse",
+        "Chủ đầu tư": "Công ty cổ phần Tập đoàn Mạnh Đức"
+    },
+    {
+        "Tên Dự án": "Monbay Vân Đồn Quảng Ninh",
+        "Diện tích": "299,64 ha",
+        "Vị trí": "Khu vực Ao Tiên, xã Hạ Long, thuộc Khu kinh tế Vân Đồn, tỉnh Quảng Ninh",
+        "Loại hình": "Biệt thự, nhà liền kề, shophouse, sân golf",
+        "Chủ đầu tư": "Công ty TNHH HDMon Vân Đồn"
+    },
+    {
+        "Tên Dự án": "Phương Đông Green Valley",
+        "Diện tích": "9,6 ha",
+        "Vị trí": "Xóm Đồng Tiến, xã Tân Vinh, huyện Lương Hòa, tỉnh Hòa Bình",
+        "Loại hình": "Đất nền",
+        "Chủ đầu tư": "Tập đoàn Phương Đông"
+    },
+    {
+        "Tên Dự án": "Khu đô thị Romantic Park Tây Hồ",
+        "Diện tích": "13.916 m2",
+        "Vị trí": "Ô đất O16 – HH1, Khu đô thị mới Tây Hồ Tây, phường Xuân La, quận Tây Hồ, thành phố Hà Nội",
+        "Loại hình": "Nhà liền kề, shophouse",
+        "Chủ đầu tư": "Công ty TNHH Phát triển Bắc Sơn"
+    },
+    {
+        "Tên Dự án": "Khu đô thị Sun Garden Kon Tum",
+        "Diện tích": "30 ha",
+        "Vị trí": "Đường Trần Hưng Đạo, huyện Sa Thầy, thị trấn Sa Thầy, tỉnh Kon Tum",
+        "Loại hình": "Đất nền, biệt thự, shophouse",
+        "Chủ đầu tư": "UBND huyện Sa Thầy"
+    },
+    {
+        "Tên Dự án": "The Emerald 68 Bình Dương",
+        "Diện tích": "7.101,9 m2",
+        "Vị trí": "Đường Vĩnh Phú 10, phường Vĩnh Phú, thành phố Thuận An, tỉnh Bình Dương",
+        "Loại hình": "Căn hộ",
+        "Chủ đầu tư": "Công ty Cổ phần Tập đoàn Lê Phong"
+    },
+    {
+        "Tên Dự án": "New Lavida Bình Dương",
+        "Diện tích": "10.000 m2",
+        "Vị trí": "Đường TL743C, phường Tân Đông Hiệp, thành phố Dĩ An, tỉnh Bình Dương",
+        "Loại hình": "Căn hộ",
+        "Chủ đầu tư": "Công ty TNHH Kinh doanh và Phát triển nhà Toàn Thịnh Phát"
+    },
+    {
+        "Tên Dự án": "Cactus Garden Lâm Đồng",
+        "Diện tích": "1,2 ha",
+        "Vị trí": "Đường Liên Xã, xã Lộc Đức, huyện Bảo Lâm, tỉnh Lâm Đồng",
+        "Loại hình": "Đất nền",
+        "Chủ đầu tư": "Đơn vị phát triển: Công ty Cổ phần Bất động sản Central Real – Cres"
+    },
+    {
+        "Tên Dự án": "PGA Golf Villas",
+        "Diện tích": "20 ha",
+        "Vị trí": "Nằm trong khu du lịch Novaworld Phan Thiết tại đường Lạc Long Quân, xã Tiến Thành, thành phố Phan Thiết, tỉnh Bình Thuận",
+        "Loại hình": "Biệt thự, khách sạn, shophouse, nhà phố",
+        "Chủ đầu tư": "Tập đoàn Novaland"
+    },
+    {
+        "Tên Dự án": "Khu phố chợ Chiên Đàn",
+        "Diện tích": "98.444 m2",
+        "Vị trí": "Xã Tam Đàn, huyện Phú Ninh, tỉnh Quảng Nam",
+        "Loại hình": "Đất nền, trung tâm thương mại",
+        "Chủ đầu tư": "Công ty Cổ phần Địa ốc Newland Quảng Nam"
+    },
+    {
+        "Tên Dự án": "Phú Tài Central Life",
+        "Diện tích": "No size",
+        "Vị trí": "đường Hoàng Văn Thụ và Lý Thái Tổ thuộc KV4 phường Quang Trung, thành phố Quy Nhơn, tỉnh Bình Định",
+        "Loại hình": "Căn hộ, shophouse",
+        "Chủ đầu tư": "Công ty TNHH MTV Bất động sản Phú Tài"
+    },
+    {
+        "Tên Dự án": "Oyster Bay Vũng Tàu",
+        "Diện tích": "2.571 m2",
+        "Vị trí": "82B đường Trần Phú, phường 5, thành phố Vũng Tàu, tỉnh Bà Rịa – Vũng Tàu",
+        "Loại hình": "Căn hộ",
+        "Chủ đầu tư": "Công ty Cổ phần Tập đoàn Vietpearl"
+    },
+    {
+        "Tên Dự án": "Khu đô thị mới Đông Tân Thiện",
+        "Diện tích": "45,68 ha",
+        "Vị trí": "Đường N2 và Nguyễn Trường Tộ, phường Tân Thiện, thị xã Lagi, tỉnh Bình Thuận",
+        "Loại hình": "Đất nền",
+        "Chủ đầu tư": "Công ty Cổ phần Đầu tư Phát triển đô thị Ân Phú"
+    },
+    {
+        "Tên Dự án": "Solaria Center Sầm Sơn",
+        "Diện tích": "7.600 m2",
+        "Vị trí": "Đường Nguyễn Du, phường Bắc Sơn, thành phố Sầm Sơn, tỉnh Thanh Hóa",
+        "Loại hình": "Shophouse, khách sạn",
+        "Chủ đầu tư": "Công ty Cổ phần Thịnh Phát Group"
+    },
+    {
+        "Tên Dự án": "Wonder City Vân Phong Bay",
+        "Diện tích": "455,44 ha",
+        "Vị trí": "Thôn Đầm Môn, xã Vạn Thạnh, huyện Vạn Ninh, tỉnh Khánh Hòa",
+        "Loại hình": "Khu du lịch nghỉ dưỡng",
+        "Chủ đầu tư": "Công ty Cổ phần Đầu tư Du lịch T&M Vân Phong"
+    },
+    {
+        "Tên Dự án": "Khu đô thị nghỉ dưỡng La Saveur De ",
+        "Diện tích": "60 ha",
+        "Vị trí": "Xã Nhuận Trạch, huyện Lương Sơn, tỉnh Hòa Bình",
+        "Loại hình": "Biệt thự, shophouse, căn hộ",
+        "Chủ đầu tư": "Công ty Cổ phần Đô thị sinh thái Dầu khí Hòa Bình"
+    },
+    {
+        "Tên Dự án": "Khu dân cư Nam Long Central Lake ",
+        "Diện tích": "43,8 ha",
+        "Vị trí": "Phường Hưng Thạnh, quận Cái Răng, thành phố Cần Thơ",
+        "Loại hình": "Đất nền, biệt thự, shophouse, nhà phố",
+        "Chủ đầu tư": "Công ty Cổ phần Đầu tư Nam Long"
+    },
+    {
+        "Tên Dự án": "TNR Stars An Châu",
+        "Diện tích": "No size",
+        "Vị trí": "Quốc lộ 91 thuộc thị trấn An Châu, huyện Châu Thành, tỉnh An Giang",
+        "Loại hình": "Đất nền",
+        "Chủ đầu tư": "Đơn vị phát triển: Công ty Cổ phần Đầu tư Phát triển Bất động sản TNR Holdings Việt Nam"
+    },
+    {
+        "Tên Dự án": "Khu đô thị Tấn Đức Eastern Park",
+        "Diện tích": "18,8 ha",
+        "Vị trí": "Đường 47m, phường Đồng Tiến, thị xã Phổ Yên, tỉnh Thái Nguyên",
+        "Loại hình": "Nhà liền kề, căn hộ, biệt thự, shophouse",
+        "Chủ đầu tư": "Công ty Cổ phần Đầu tư Xây dựng Hạ tầng Tấn Đức JSC"
+    },
+    {
+        "Tên Dự án": "Lộc An Airhomes Bà Rịa Vũng Tàu",
+        "Diện tích": "1 ha",
+        "Vị trí": "Đường Long Mỹ - Láng Dài, xã Lộc An, huyện Đất Đỏ, tỉnh Bà Rịa Vũng Tàu",
+        "Loại hình": "Nhà phố vườn",
+        "Chủ đầu tư": "Công ty TNHH Thương mại Dịch vụ Bất động sản An Tường"
+    },
+    {
+        "Tên Dự án": "Khu dân cư Ngọc Sơn Riverside",
+        "Diện tích": "142.140,0 m2",
+        "Vị trí": "Nằm cạnh quốc lộ 391, xã Ngọc Sơn, thành phố Hải Dương, tỉnh Hải Dương",
+        "Loại hình": "Đất nền, biệt thự, căn hộ",
+        "Chủ đầu tư": "Công ty TNHH MTV Xây dựng và Thương mại Ngọc Sơn"
+    },
+    {
+        "Tên Dự án": "Bảo Phú Residence",
+        "Diện tích": "12.000 m2",
+        "Vị trí": "Đường Võ Thị Liễu, phường An Phú Đông, Quận 12, thành phố Hồ Chí Minh",
+        "Loại hình": "Nhà phố",
+        "Chủ đầu tư": "Công ty Cổ phần Đầu tư Xây dựng Thương mại và Dịch vụ Đại Phát"
+    },
+    {
+        "Tên Dự án": "Itaewon An Dương Hải Phòng",
+        "Diện tích": "4,37 ha",
+        "Vị trí": "Quốc lộ 10, thôn Trạm Bạc, xã Lê Lợi, huyện An Dương, thành phố Hải Phòng",
+        "Loại hình": "Shophouse, liền kề",
+        "Chủ đầu tư": "Công ty Cổ phần Kinh doanh DVTM Cầu Vồng Hoa Lan 7&1"
+    },
+    {
+        "Tên Dự án": "Dự án:",
+        "Diện tích": "13.502 m2",
+        "Vị trí": "Khu đất HH-02, thuộc Khu đô thị Long Vân, phường Trần Quang Diệu, thành phố Quy Nhơn, tỉnh Bình Định",
+        "Loại hình": "Nhà phố, shophouse",
+        "Chủ đầu tư": "Công ty Cổ phần Đất xanh Miền Trung"
+    },
+    {
+        "Tên Dự án": "Sân Golf Việt Yên Bắc Giang",
+        "Diện tích": "141,4 ha",
+        "Vị trí": "Nằm tại 2 xã Hương Mai và Trung Sơn, huyện Việt Yên, tỉnh Bắc Giang",
+        "Loại hình": "Sân Golf",
+        "Chủ đầu tư": "Công ty Cổ phần Đầu tư Golf Trường An"
+    },
+    {
+        "Tên Dự án": "Valley of Dreams II – Luxury",
+        "Diện tích": "7,98 ha",
+        "Vị trí": "EcoLakes Mỹ Phước, phường Thới Hòa, thị xã Bến Cát, tỉnh Bình Dương",
+        "Loại hình": "Biệt thự",
+        "Chủ đầu tư": "Công ty Cổ phần SetiaBecamex"
+    },
+    {
+        "Tên Dự án": "Phương Đông Green Town",
+        "Diện tích": "1,3 ha",
+        "Vị trí": "Đường 353C, phường Minh Đức, quận Đồ Sơn, thành phố Hải Phòng",
+        "Loại hình": "Nhà phố, shophouse",
+        "Chủ đầu tư": "Tập đoàn Phương Đông"
+    },
+    {
+        "Tên Dự án": "Khu đô thị sinh thái sông Đơ",
+        "Diện tích": "68,68 ha",
+        "Vị trí": "Dọc hai bờ Sông Đơ, phường Trường Sơn, Thành phố Sầm Sơn, tỉnh Thanh Hóa",
+        "Loại hình": "Đất nền, biệt thự, shophouse",
+        "Chủ đầu tư": "Công ty Cổ phần Đầu tư và Xây dựng HUD4"
+    },
+    {
+        "Tên Dự án": "Dự án:",
+        "Diện tích": "37.343,8 m2",
+        "Vị trí": "Vị trí:",
+        "Loại hình": "Căn hộ",
+        "Chủ đầu tư": "Công ty Cổ phần Phát triển Bất động sản Phát Đạt"
+    },
+    {
+        "Tên Dự án": "Chung cư BQP Linh Đàm Hà Nội",
+        "Diện tích": "49.346 m2",
+        "Vị trí": " Lô đất CT-02A và CT-02B thuộc khu đô thị mới Nam hồ Linh Đàm, phường Hoàng Liệt, quận Hoàng Mai và xã Tam Hiệp, huyện Thanh Trì, thành phố Hà Nội",
+        "Loại hình": "Căn hộ",
+        "Chủ đầu tư": "Tổng Công ty Đầu tư Phát triển Nhà và Đô thị Bộ Quốc phòng (MHDI)"
+    },
+    {
+        "Tên Dự án": "Thuận Đạo Residence Long An",
+        "Diện tích": "30 ha",
+        "Vị trí": "Đường Phan Văn Mãng, xã Long Định, huyện Cần Đước, tỉnh Long An",
+        "Loại hình": "Đất nền",
+        "Chủ đầu tư": "Tập đoàn Thắng Lợi"
+    },
+    {
+        "Tên Dự án": "Seashine Bảo Ninh Quảng Bình",
+        "Diện tích": "95.308 m2",
+        "Vị trí": "Thôn Hà Thiệp, xã Võ Ninh, huyện Quảng Ninh, tỉnh Quảng Bình",
+        "Loại hình": "Đất nền",
+        "Chủ đầu tư": "Liên danh"
+    },
+    {
+        "Tên Dự án": "Khu dân cư Đào Sư Tích Residence",
+        "Diện tích": "26,65 ha",
+        "Vị trí": "Đường Đào Sư Tích, xã Phước Kiển, huyện Nhà Bè, thành phố Hồ Chí Minh",
+        "Loại hình": "Đất nền",
+        "Chủ đầu tư": "Công ty TNHH Đầu tư Thương mại Dịch Vụ Đoàn Thành Phát"
+    },
+    {
+        "Tên Dự án": "Bcons City Dĩ An",
+        "Diện tích": "4,4 ha",
+        "Vị trí": "Đường Thống Nhất, khu phố Bình Thắng, phường Đông Hòa, thành phố Dĩ An, tỉnh Bình Dương",
+        "Loại hình": "Căn hộ, nhà phố",
+        "Chủ đầu tư": "Công ty Cổ phần Đầu tư Xây dựng Bcons"
+    },
+    {
+        "Tên Dự án": "Đức Hòa Center Long An",
+        "Diện tích": "2,3 ha",
+        "Vị trí": "Đường Đức Hòa Thượng, huyện Đức Hòa, tỉnh Long An",
+        "Loại hình": "Đất nền",
+        "Chủ đầu tư": "Công ty Cổ phần Đầu tư và Xây dựng Địa ốc Tây Nam Land"
+    },
+    {
+        "Tên Dự án": "Khu công nghiệp Sơn Mỹ 1 Bình Thuận",
+        "Diện tích": "1.070 ha",
+        "Vị trí": "Thôn 3, xã Sơn Mỹ, huyện Hàm Tân, tỉnh Bình Thuận",
+        "Loại hình": "Khu công nghiệp, khu dân cư, khu sân golf",
+        "Chủ đầu tư": "Công ty TNHH Đầu tư Xây dựng và Kinh doanh Kết cấu Hạ tầng Khu công nghiệp Sơn Mỹ (IPICO)"
+    },
+    {
+        "Tên Dự án": "HNT Sơn Tây Hà Nội",
+        "Diện tích": "13,7 ha",
+        "Vị trí": "Đường Chùa Thông, phường Trung Sơn Trầm, thị xã Sơn Tây,",
+        "Loại hình": "Biệt thự, nhà liền kề",
+        "Chủ đầu tư": "Công ty Cổ phần Thương mại và Xây dựng Á Châu"
+    },
+    {
+        "Tên Dự án": "Lideco Bãi Muối Hạ Long",
+        "Diện tích": "43,67 ha",
+        "Vị trí": "Phường Cao Thắng và Hà Khánh, thành Phố Hạ Long, tỉnh Quảng Ninh",
+        "Loại hình": "Biệt thự, liền kề, căn hộ",
+        "Chủ đầu tư": "Công ty Cổ phần Phát triển Đô thị Từ Liêm"
+    },
+    {
+        "Tên Dự án": "Biệt thự Will State",
+        "Diện tích": "11,3 ha",
+        "Vị trí": "Phân khu B của khu đô thị Dương Nội, quận Hà Đông, thành phố Hà Nội",
+        "Loại hình": "Biệt thự, shophouse",
+        "Chủ đầu tư": "Tập đoàn Nam Cường"
+    },
+    {
+        "Tên Dự án": "The Ocean View - Vinhomes Ocean Park",
+        "Diện tích": "76.383 m2",
+        "Vị trí": "Đường Lý Thánh Tông, thị trấn Trâu Quỳ, huyện Gia Lâm, Hà Nội",
+        "Loại hình": "Căn hộ",
+        "Chủ đầu tư": "Công ty TNHH Đầu Tư và Phát triển Đô thị Gia Lâm"
+    },
+    {
+        "Tên Dự án": "Phân khu Hollywood Hills",
+        "Diện tích": "90 ha",
+        "Vị trí": "Thôn Hải Giang, xã Nhơn Hải, thành phố Quy Nhơn, tỉnh Bình Định",
+        "Loại hình": "Biệt thự",
+        "Chủ đầu tư": "Tập đoàn Hưng Thịnh"
+    },
+    {
+        "Tên Dự án": "Phố thương mại Khang An Châu Đốc",
+        "Diện tích": "28.819 m2",
+        "Vị trí": "Đường Phan Đình Phùng, phường Châu Phú B, thành phố Châu Đốc, tỉnh An Giang",
+        "Loại hình": "Shophouse",
+        "Chủ đầu tư": "Công ty TNHH Một Thành Viên Khang An Tân Châu"
+    },
+    {
+        "Tên Dự án": "Sol Lake Villa",
+        "Diện tích": "22,86 ha",
+        "Vị trí": "Đường Tố Hữu, phường Yên Nghĩa, quận Hà Đông, Hà Nội",
+        "Loại hình": "Biệt thự",
+        "Chủ đầu tư": "Công ty Cổ phần Tập đoàn Nam Cường Hà Nội"
+    },
+    {
+        "Tên Dự án": "Văn Yên Ever Green",
+        "Diện tích": "134.742,28 m2",
+        "Vị trí": "Đường Hồng Hà, thị trấn Mậu A, huyện Văn Yên, tỉnh Yên Bái",
+        "Loại hình": "Liền kề, biệt thự, shophouse",
+        "Chủ đầu tư": "Công ty Cổ phần Đầu tư Homever"
+    },
+    {
+        "Tên Dự án": "Phân khu Long Cang New",
+        "Diện tích": "5,3 ha",
+        "Vị trí": "Đường đại lộ Nguyễn Trung Trực, thuộc xã Long Cang, huyện Cần Đước, tỉnh Long An",
+        "Loại hình": "Đất nền",
+        "Chủ đầu tư": "Công ty Cổ phần Đầu tư và Xây dựng Địa ốc Tây Nam Land"
+    },
+    {
+        "Tên Dự án": "Long Cang Residence Long An",
+        "Diện tích": "42 ha",
+        "Vị trí": "Đường đại lộ Nguyễn Trung Trực, thuộc xã Long Cang, huyện Cần Đước, tỉnh Long An",
+        "Loại hình": "Đất nền",
+        "Chủ đầu tư": "Công ty Cổ phần Đầu tư và Xây dựng Địa ốc Tây Nam Land"
+    },
+    {
+        "Tên Dự án": "The Beverly Solari - Vinhomes Grand Park",
+        "Diện tích": "8,7 ha",
+        "Vị trí": "Đường Nguyễn Xiển và Phước Thiện, phường Long Thạnh Mỹ, thành phố Thủ Đức",
+        "Loại hình": "Căn hộ",
+        "Chủ đầu tư": "Đơn vị phát triển: "
+    },
+    {
+        "Tên Dự án": "Khu dân cư Agora City Long An",
+        "Diện tích": "487.053 m2",
+        "Vị trí": "Đường liên tỉnh ĐT 818, thị trấn Thủ Thừa, huyện Thủ Thừa, tỉnh Long An",
+        "Loại hình": "Nhà phố liền kề, biệt thự, căn hộ ",
+        "Chủ đầu tư": "Công ty Cổ phần Đầu tư Phát triển Thủ Thừa"
+    },
+    {
+        "Tên Dự án": "Đồi Hoa Gió Lâm Đồng",
+        "Diện tích": "5,8 ha",
+        "Vị trí": "Trung tâm xã Lộc Ngãi, huyện Bảo Lâm, tỉnh Lâm Đồng",
+        "Loại hình": "Đất nền",
+        "Chủ đầu tư": "Công ty Cổ phần Dịch vụ Địa ốc Á Châu"
+    },
+    {
+        "Tên Dự án": "Fifa City Bình Chánh",
+        "Diện tích": "32.000 m2",
+        "Vị trí": "Đường Nguyễn Văn Linh, xã An Phú Tây, huyện Bình Chánh, thành phố Hồ Chí Minh",
+        "Loại hình": "Căn hộ, nhà phố, shophouse",
+        "Chủ đầu tư": "Đơn vị phát triển: Công ty Cổ phần Fifa Investment"
+    },
+    {
+        "Tên Dự án": "Tumys Homes Phú Mỹ Bà Rịa – Vũng Tàu",
+        "Diện tích": "10.503 m2",
+        "Vị trí": "Quốc lộ 51, phường Phú Mỹ, thị xã Phú Mỹ, tỉnh Bà Rịa – Vũng Tàu",
+        "Loại hình": "Căn hộ",
+        "Chủ đầu tư": "Công ty TNHH Thương Mại Tùng Mỹ"
+    },
+    {
+        "Tên Dự án": "Đồi Mơ Sky View Lâm Đồng",
+        "Diện tích": "2,5 ha",
+        "Vị trí": "xã Lộc An, huyện Bảo Lâm, tỉnh Lâm Đồng",
+        "Loại hình": "Đất nền",
+        "Chủ đầu tư": "Công ty Cổ phần Đầu tư và Phát triển Dragon Homes"
+    },
+    {
+        "Tên Dự án": "The Solina Khang Điền",
+        "Diện tích": "No size",
+        "Vị trí": "khu dân cư 11 A, xã Bình Hưng, huyện Bình Chánh, TP. HCM",
+        "Loại hình": "Biệt thự, shophouse, căn hộ",
+        "Chủ đầu tư": "Công ty TNHH MTV Đầu tư Kinh doanh Nhà Khang Phúc"
+    },
+    {
+        "Tên Dự án": "S - Downtown",
+        "Diện tích": "2,04 ha",
+        "Vị trí": "Đường Phan Trọng Tuệ, xã Thanh Liệt, huyện Thanh Trì, thành phố Hà Nội",
+        "Loại hình": "Nhà ở liền kề, shophouse",
+        "Chủ đầu tư": "Công ty Cổ phần Tập đoàn HDB Việt Nam "
+    },
+    {
+        "Tên Dự án": "Ngũ Đại Kinh Đô",
+        "Diện tích": "65 ha",
+        "Vị trí": "Phường Thanh Hà, thành phố Hội An, tỉnh Quảng Nam",
+        "Loại hình": "",
+        "Chủ đầu tư": "Công ty Cổ phần Tập đoàn Royal Capital"
+    },
+    {
+        "Tên Dự án": "Nhà ở xã hội Bảo Ngọc City",
+        "Diện tích": "0,86 ha",
+        "Vị trí": "Phường Thạch Bàn, quận Long Biên, thành phố Hà Nội",
+        "Loại hình": "Căn hộ",
+        "Chủ đầu tư": "Công ty Cổ phần Đầu tư Bảo Ngọc TTC"
+    },
+    {
+        "Tên Dự án": "The Lake Premium",
+        "Diện tích": "",
+        "Vị trí": "Khu đô thị phường Tây Mỗ, quận Từ Liêm, thành phố Hà Nội",
+        "Loại hình": "Căn hộ",
+        "Chủ đầu tư": "Công ty Cổ phần Tập đoàn MIKGroup Việt Nam"
+    },
+    {
+        "Tên Dự án": "Sun Harbor Plaza Hạ Long",
+        "Diện tích": "55.390 m2",
+        "Vị trí": "Đường Kỳ Quan, phường Bãi Cháy, thành phố Hạ Long, tỉnh Quảng Ninh",
+        "Loại hình": "Shophouse",
+        "Chủ đầu tư": "Công ty Cổ phần Tập đoàn Mặt Trời (Sun Group)"
+    },
+    {
+        "Tên Dự án": "Trung Tâm Hành Chính Bom Bo Bình Phước",
+        "Diện tích": "193.334,1 m2",
+        "Vị trí": "Đường ĐT760, xã Bom Bo, huyện Bù Đăng, tỉnh Bình Phước",
+        "Loại hình": "Biệt thự",
+        "Chủ đầu tư": "Công ty Cổ phần Đầu tư Kinh doanh Bất động sản Thái Thành"
+    },
+    {
+        "Tên Dự án": "Phân khu biệt thự Monaco Wellness",
+        "Diện tích": "14,4 ha",
+        "Vị trí": "Nằm trong dự án Novaworld Phan Thiết, đường Lạc Long Quân, phường Tiến Thành, thành phố Phan Thiết, tỉnh Bình Thuận",
+        "Loại hình": "Biệt thự",
+        "Chủ đầu tư": "Công ty Cổ phần Đầu tư Địa ốc Nova (Novaland)"
+    },
+    {
+        "Tên Dự án": "CeoHomes Hana Garden",
+        "Diện tích": "20,3 ha",
+        "Vị trí": "Xã Đại Thịnh – Mê Linh – Văn Khê, huyện Mê Linh, thành phố Hà Nội",
+        "Loại hình": "Biệt thự, shophouse, nhà liền kề, nhà ở xã hội, tòa nhà hỗn hợp.",
+        "Chủ đầu tư": "Công ty Cổ phần Tập đoàn CEO Group"
+    },
+    {
+        "Tên Dự án": "Vivian Le Jardin Thủ Đức",
+        "Diện tích": "9.808 m2",
+        "Vị trí": "Đường Nguyễn Văn Hưởng, phường Thảo Điền, thành phố Thủ Đức, thành phố Hồ Chí Minh",
+        "Loại hình": "Biệt thự",
+        "Chủ đầu tư": "Đơn vị phát triển: Công ty Cổ phần Quản lý & Phát triển Viva"
+    },
+    {
+        "Tên Dự án": "BRG Smart City Hà Nội",
+        "Diện tích": "Tổng diện tích:",
+        "Vị trí": "Xã Hải Bối và Vĩnh Ngọc, huyện Đông Anh, thành phố Hà Nội",
+        "Loại hình": "Căn hộ, liền kề, shophouse",
+        "Chủ đầu tư": "liên doanh"
+    },
+    {
+        "Tên Dự án": "Phân khu nhà phố Soho ",
+        "Diện tích": "",
+        "Vị trí": "Nằm trong dự án The Global City, phường An Phú, thành phố Thủ Đức, thành phố Hồ Chí Minh",
+        "Loại hình": "Shophouse, nhà phố",
+        "Chủ đầu tư": "Công ty TNHH Phát triển Bất động sản Masterise Homes"
+    },
+    {
+        "Tên Dự án": "Phân khu La Porte",
+        "Diện tích": "14,7 ha",
+        "Vị trí": "Quốc lộ 1A, thôn Hoàng Trung, xã Hoàng Đồng, thành phố Lạng Sơn, tỉnh Lạng Sơn",
+        "Loại hình": "Shophouse",
+        "Chủ đầu tư": "Công ty Cổ phần Quốc tế Lạng Sơn"
+    },
+    {
+        "Tên Dự án": "Legacy Garden Nguyễn Xiển Hà Nội",
+        "Diện tích": "14.863 m2",
+        "Vị trí": "Số 214 Nguyễn Xiển, phường Hạ Đình, quận Thanh Xuân, thành phố Hà Nội",
+        "Loại hình": "Liền kề, shophouse",
+        "Chủ đầu tư": "Công ty Cổ phần Xây dựng Lắp máy Điện nước Hà Nội Haweicco"
+    },
+    {
+        "Tên Dự án": "Việt Đức Legend City Vĩnh Phúc",
+        "Diện tích": "620.798 m2",
+        "Vị trí": "Đường Mê Linh, xã Đạo Đức, huyện Bình Xuyên, tỉnh Vĩnh Phúc",
+        "Loại hình": "Biệt thự, nhà liền kề, nhà cao tầng",
+        "Chủ đầu tư": "Đơn vị phát triển: "
+    },
+    {
+        "Tên Dự án": "Khu dân cư Nam Hà",
+        "Diện tích": "32,5 ha",
+        "Vị trí": "Đường Z30A, xã Đông Hà, huyện Đức Linh, tỉnh Bình Thuận",
+        "Loại hình": "Đất nền",
+        "Chủ đầu tư": "Công ty Trách nhiệm Hữu hạn Nam Hà – Đức Linh"
+    },
+    {
+        "Tên Dự án": "Yên Phong Central City",
+        "Diện tích": "8,5 ha",
+        "Vị trí": "Xã Dũng Liệt, huyện Yên Phong, tỉnh Bắc Ninh",
+        "Loại hình": "Đất nền",
+        "Chủ đầu tư": "Công ty TNHH Tư vấn Đầu tư và Xây dựng Khu Đô Thị"
+    },
+    {
+        "Tên Dự án": "NovaWorld Nha Trang Diamond Bay",
+        "Diện tích": "300 ha",
+        "Vị trí": "Đường Nguyễn Tất Thành, phường Phước Đồng, thành phố Nha Trang, tỉnh Khánh Hòa",
+        "Loại hình": "Căn hộ, khách sạn, biệt thự, resort",
+        "Chủ đầu tư": "Tập đoàn Novaland"
+    },
+    {
+        "Tên Dự án": "IFC One Saigon quận 1",
+        "Diện tích": "6.672 m2",
+        "Vị trí": "Số 34 đường Tôn Đức Thắng, phường Nguyễn Thái Bình, quận 1, thành phố Hồ Chí Minh",
+        "Loại hình": "Căn hộ",
+        "Chủ đầu tư": "Công ty Cổ phần Di sản quốc tế Hồ Tràm"
+    },
+    {
+        "Tên Dự án": "Vinhomes Gardenia",
+        "Diện tích": "17,6 ha",
+        "Vị trí": "Đường Hàm Nghi, quận Nam Từ Liêm, thành phố Hà Nội",
+        "Loại hình": "Chung cư, biệt thự, shophouse",
+        "Chủ đầu tư": "Tập đoàn Vingroup"
+    },
+    {
+        "Tên Dự án": "The Sailing Bay - Hon Thom Paradise Island",
+        "Diện tích": "11,5 ha",
+        "Vị trí": "Bãi Trào, đảo Hòn Thơm, phường An Thới, thành phố Phú Quốc, tỉnh Kiên Giang",
+        "Loại hình": "Biệt thự, condotel",
+        "Chủ đầu tư": "Đơn vị phát triển: Tập đoàn Sun Group"
+    },
+    {
+        "Tên Dự án": "Phân khu The Santo Port",
+        "Diện tích": "5,56 ha",
+        "Vị trí": "Bãi Trào, đảo Hòn Thơm, phường An Thới, thành phố Phú Quốc",
+        "Loại hình": "Shophouse",
+        "Chủ đầu tư": "Công ty Cổ phần Tập đoàn Mặt Trời (Sun Group)"
+    },
+    {
+        "Tên Dự án": "Phân khu Olympic",
+        "Diện tích": "4,4 ha",
+        "Vị trí": "Đại lộ danh vọng, xã Tiến Thành, thành phố Phan Thiết, tỉnh Bình Thuận",
+        "Loại hình": "Biệt thự, nhà phố",
+        "Chủ đầu tư": "Công ty Cổ phần Đầu tư Địa ốc Nova (Novaland)"
+    },
+    {
+        "Tên Dự án": "The Horizon Phú Mỹ Hưng",
+        "Diện tích": "5.805 m2",
+        "Vị trí": "số 19 đường Trần Văn Trà, phường Tân Phú, quận 7, thành phố Hồ Chí Minh",
+        "Loại hình": "Căn hộ",
+        "Chủ đầu tư": "Đơn vị phát triển: Công ty TNHH Phát triển Phú Mỹ Hưng"
+    },
+    {
+        "Tên Dự án": "Nhà ở xã hội Thượng Thanh Long Biên",
+        "Diện tích": "60.335 m2",
+        "Vị trí": "Phường Thượng Thanh, quận Long Biên, thành phố Hà Nội",
+        "Loại hình": "Căn hộ, nhà ở thấp tầng",
+        "Chủ đầu tư": "liên doanh"
+    },
+    {
+        "Tên Dự án": "Nam An Eco town Bình Thuận",
+        "Diện tích": "5 ha",
+        "Vị trí": "Xã Hàm Thắng, huyện Hàm Thuận Bắc, tỉnh Bình Thuận",
+        "Loại hình": "Đất nền",
+        "Chủ đầu tư": "Công ty Cổ phần Đầu tư BĐS Hưng Vượng Miền Bắc"
+    },
+    {
+        "Tên Dự án": "Kinh Đô Ánh Sáng - Vinhomes Ocean Park 2 The Empire",
+        "Diện tích": "24 ha",
+        "Vị trí": "Đường Nguyễn Văn Hưởng, phường Thảo Điền, thành phố Thủ Đức, thành phố Hồ Chí Minh",
+        "Loại hình": "Shophouse, biệt thự",
+        "Chủ đầu tư": "Đơn vị phát triển: Tập đoàn Vingroup"
+    },
+    {
+        "Tên Dự án": "Vinhomes Golden Avenue",
+        "Diện tích": "110 ha",
+        "Vị trí": "Cầu Bắc Luân 2, phường Hải Hòa, thành phố Móng Cái, tỉnh Quảng Ninh",
+        "Loại hình": "Nhà liền kề, biệt thự, căn hộ, shophouse",
+        "Chủ đầu tư": "Tập đoàn Vingroup"
+    },
+    {
+        "Tên Dự án": "Khu dân cư Long Kim 2",
+        "Diện tích": "24,2 ha",
+        "Vị trí": "Đường Nguyễn Trung Trực, thị trấn Bến Lức, huyện Bến Lức, tỉnh Long An",
+        "Loại hình": "Nhà phố, nhà liền kề, nhà vườn",
+        "Chủ đầu tư": "Công ty Cổ phần Tập đoàn Hoàng Long"
+    },
+    {
+        "Tên Dự án": "Le Jardin Garden Villas - ParkCity Hanoi",
+        "Diện tích": "4,46 ha",
+        "Vị trí": "Đường Quyết Thắng, phường La Khê. Quận Hà Đông, Hà Nội",
+        "Loại hình": "Biệt thự",
+        "Chủ đầu tư": "Đơn vị phát triển: Công ty Cổ phần Phát triển Đô thị Quốc tế Việt Nam"
+    },
+    {
+        "Tên Dự án": "Arkadia Square - ParkCity Hanoi",
+        "Diện tích": "4,5 ha",
+        "Vị trí": "Đường Lê Trọng Tấn, phường La Khê, quận Hà Đông, Hà Nội",
+        "Loại hình": "Shophouse",
+        "Chủ đầu tư": "Đơn vị phát triển: Công ty Cổ phần Phát triển Đô thị Quốc tế Việt Nam"
+    },
+    {
+        "Tên Dự án": "Khu dân cư Triệu Sơn New Central",
+        "Diện tích": "6,1 ha",
+        "Vị trí": "Thị trấn Triệu Sơn, huyện Triệu Sơn, tỉnh Thanh Hóa",
+        "Loại hình": "Đất nền, shophouse",
+        "Chủ đầu tư": "Công ty TNHH BT Triệu Sơn"
+    },
+    {
+        "Tên Dự án": "Eco Smart City Long Biên",
+        "Diện tích": "13.493 m2",
+        "Vị trí": "Đường Cổ Linh, phường Long Biên, quận Long Biên, Hà Nội",
+        "Loại hình": "Căn hộ",
+        "Chủ đầu tư": "Đơn vị phát triển: Công ty TNHH Thiên Hương"
+    },
+    {
+        "Tên Dự án": "Phân khu Sao Biển  ",
+        "Diện tích": "No size",
+        "Vị trí": "xã Long Hưng và Nghĩa Trụ thuộc huyện Văn Giang, tỉnh Hưng Yên",
+        "Loại hình": "Shophouse, liền kề, biệt thự",
+        "Chủ đầu tư": "Đơn vị phát triển: Vinhomes"
+    },
+    {
+        "Tên Dự án": "Khu đô thị Phú Gia Compound",
+        "Diện tích": "20.086 m2",
+        "Vị trí": "Số 126 Ông Ích Khiêm, phường Tam Thuận, quận Thanh Khuê, thành phố Đà Nẵng",
+        "Loại hình": "Town House, shophouse",
+        "Chủ đầu tư": "Công ty TNHH Phú Gia Compound"
+    },
+    {
+        "Tên Dự án": "Imperial Đà Lạt",
+        "Diện tích": "11.024 m2",
+        "Vị trí": "Số 57 - 59 đường Hùng Vương, phường 9, thành phố Đà Lạt, tỉnh Lâm Đồng",
+        "Loại hình": "Khách sạn, condotel",
+        "Chủ đầu tư": "Đơn vị phát triển: Công ty Cổ phần Dịch vụ và Thương mại Petrolimex Lâm Đồng"
+    },
+    {
+        "Tên Dự án": "Enclave Phú Quốc",
+        "Diện tích": "352 ha",
+        "Vị trí": "Xã Bãi Thơm, thành phố Phú Quốc, tỉnh Kiên Giang",
+        "Loại hình": "Khu du lịch nghỉ dưỡng",
+        "Chủ đầu tư": "Đơn vị phát triển: Công Ty Cổ phần Tập Đoàn Thaigroup"
+    },
+    {
+        "Tên Dự án": "Yên Lập Riverside ",
+        "Diện tích": "10,3 ha",
+        "Vị trí": "Thôn Bến Sơn, thị trấn Yên Lập, huyện Yên Lập, tỉnh Phú Thọ",
+        "Loại hình": "Đất nền",
+        "Chủ đầu tư": "Công ty TNHH Thương mại và Dịch vụ Lân Huế"
+    },
+    {
+        "Tên Dự án": "Feni City Hạ Long",
+        "Diện tích": "482.639,3 m2",
+        "Vị trí": "Phường Hà Khánh, thành phố Hạ Long, tỉnh Quảng Ninh",
+        "Loại hình": "Đất nền, biệt thự, shophouse",
+        "Chủ đầu tư": "Công ty Cổ phần Phát triển Dự án Biển Đông"
+    },
+    {
+        "Tên Dự án": "Sunshine Metaland Da Nang",
+        "Diện tích": "No size",
+        "Vị trí": "đường Trường Sa – Võ Nguyên Giáp, phường Hòa Hải, thành phố Đà Nẵng",
+        "Loại hình": "Căn hộ, biệt thự",
+        "Chủ đầu tư": "Đơn vị đầu tư: Tập đoàn Sunshine"
+    },
+    {
+        "Tên Dự án": "KVG Mozzadiso Nha Trang",
+        "Diện tích": "11,27 ha",
+        "Vị trí": "Gói 6, Khu đô thị Mỹ Gia, đường Võ Nguyên Giáp, phường Vĩnh Thái, thành phố Nha Trang",
+        "Loại hình": "Liền kề, shophouse",
+        "Chủ đầu tư": "Đơn vị phát triển: Công ty Cổ phần Phát triển Đô thị Vĩnh Thái"
+    },
+    {
+        "Tên Dự án": "Cẩm Đông Ocean Park ",
+        "Diện tích": "52.252 m2",
+        "Vị trí": "Đường Vũng Đục, phường Cẩm Đông, thành phố Cẩm Phả, tỉnh Quảng Ninh",
+        "Loại hình": "Đất nền",
+        "Chủ đầu tư": "Công ty TNHH Đông Hà"
+    },
+    {
+        "Tên Dự án": "City Gate 5 Bình Chánh",
+        "Diện tích": "8,3 ha",
+        "Vị trí": "Đường Hưng Nhơn, xã Tân Kiên, huyện Bình Chánh, thành phố Hồ Chí Minh",
+        "Loại hình": "Căn hộ",
+        "Chủ đầu tư": "Công ty Cổ phần Đầu tư Năm Bảy Bảy"
+    },
+    {
+        "Tên Dự án": "Khu đô thị Bắc Cầu Hàn",
+        "Diện tích": "85,25 ha",
+        "Vị trí": "Xã Minh Tân, huyện Nam Sách và xã An Thượng, thành phố Hải Dương, tỉnh Hải Dương",
+        "Loại hình": "Biệt thự, nhà liền kề",
+        "Chủ đầu tư": "Liên danh Công ty Cổ phần Đầu tư và Xây dựng số 18 - Công ty Cổ phần Đầu tư và Xây dựng số 18.1"
+    },
+    {
+        "Tên Dự án": "An Bình Plaza Nam từ Liêm",
+        "Diện tích": "5.596 m2",
+        "Vị trí": "Phố Trần Bình, phường Mỹ Đình 2, quận Nam Từ Liêm, Hà Nội",
+        "Loại hình": "Căn hộ",
+        "Chủ đầu tư": "Công ty Cổ phần H2H Hà Nội"
+    },
+    {
+        "Tên Dự án": "Hạ Long Star Quảng Ninh",
+        "Diện tích": "125 ha",
+        "Vị trí": "Phường Bãi Cháy, thành phố Hạ Long, tỉnh Quảng Ninh",
+        "Loại hình": "Shophouse, nhà phố, biệt thự",
+        "Chủ đầu tư": "Công ty Limitless World và Tập đoàn Nakheel (Dubai)"
+    },
+    {
+        "Tên Dự án": "The First Minh Linh Compound",
+        "Diện tích": "1.727 m2",
+        "Vị trí": "Đường Tự Đức (Quốc lộ 49), xã Thủy Dương, thị xã Hương Thủy, tỉnh Thừa Thiên Huế",
+        "Loại hình": "Căn hộ",
+        "Chủ đầu tư": "Công ty TNHH Đầu tư Thương mại Minh Linh"
+    },
+    {
+        "Tên Dự án": "The Ambi Central",
+        "Diện tích": "2,7 ha",
+        "Vị trí": "Đường ĐT 741, huyện Bù Gia Mập, tỉnh Bình Phước",
+        "Loại hình": "Đất nền, shophouse, nhà phố",
+        "Chủ đầu tư": "Công ty TNHH MTV Dịch vụ Thương mại Sơn Phát"
+    },
+    {
+        "Tên Dự án": "The Milan - SunValley Bảo Lộc",
+        "Diện tích": "3 ha",
+        "Vị trí": "Đường Tản Đà, xã Lộc quảng, huyện Bảo Lâm, tỉnh Lâm Đồng",
+        "Loại hình": "Shophouse",
+        "Chủ đầu tư": "Công ty Cổ phần Đầu tư và Phát triển Bất động sản Khải Hưng"
+    },
+    {
+        "Tên Dự án": "Phân khu Ngọc Trai",
+        "Diện tích": "7,3 ha",
+        "Vị trí": "Xã Long Hưng và Nghĩa Trụ, huyện Văn Giang, tỉnh Hưng Yên",
+        "Loại hình": "Biệt thự",
+        "Chủ đầu tư": "Tập đoàn Vingroup"
+    },
+    {
+        "Tên Dự án": "Phân khu The Melody Ciputra",
+        "Diện tích": "7 ha",
+        "Vị trí": "Khu đô thị Ciputra, phường Phú Thượng, quận Tây hồ, Hà Nội",
+        "Loại hình": "Biệt thự",
+        "Chủ đầu tư": "Công ty Cổ phần Tập đoàn Kita Group"
+    },
+    {
+        "Tên Dự án": "Làng Lộc Thanh Lâm Đồng",
+        "Diện tích": "Tổng diện tích:",
+        "Vị trí": "Đường Đoàn Thị Điểm, xã Lộc Thanh, huyện Bảo Lâm, tỉnh Lâm Đồng",
+        "Loại hình": "Đất nền",
+        "Chủ đầu tư": "Đơn vị phát triển: Công ty Cổ phần Dịch vụ Bất động sản Phát Hưng"
+    },
+    {
+        "Tên Dự án": "Meraki Residences – Ecopark",
+        "Diện tích": "Tổng diện tích:",
+        "Vị trí": "Khu đô thị Ecopark, xã Cửu Cao, huyện Văn Giang, tỉnh Hưng Yên",
+        "Loại hình": "Căn hộ",
+        "Chủ đầu tư": "Công ty Cổ phần Tập đoàn Ecopark"
+    },
+    {
+        "Tên Dự án": "Khu đô thị Yên Sơn Iconic Center",
+        "Diện tích": "17,2 ha",
+        "Vị trí": "đường Lê Quý Quỳnh, xã Nhân Hòa, huyện Mỹ Hào, tỉnh Hưng Yên",
+        "Loại hình": "Đất nền, biệt thự, shophouse, chung cư",
+        "Chủ đầu tư": "Công ty Cổ phần Yên Sơn"
+    },
+    {
+        "Tên Dự án": "No title",
+        "Diện tích": "No size",
+        "Vị trí": "No location",
+        "Loại hình": "No type",
+        "Chủ đầu tư": "No investor"
+    },
+    {
+        "Tên Dự án": "VX Nguyễn Oanh Gò Vấp",
+        "Diện tích": "Tổng diện tích:",
+        "Vị trí": "Đường Nguyễn Văn Dung, phường 6, quận Gò Vấp, thành phố Hồ Chí Minh",
+        "Loại hình": "Nhà phố",
+        "Chủ đầu tư": "Công ty Cổ phần Xây dựng Vạn Xuân Sài Gòn"
+    },
+    {
+        "Tên Dự án": "Shizen Nami",
+        "Diện tích": "4.309 m2",
+        "Vị trí": "Lô 1A Nguyễn Tất Thành, thuộc khu vực phường Hòa Hiệp Nam, quận Liên Chiểu, thành phố Đà Nẵng",
+        "Loại hình": "Căn hộ, penthouse, shophouse",
+        "Chủ đầu tư": "Công ty TNHH Asiana Paramount"
+    },
+    {
+        "Tên Dự án": "Kosy Lita Hà Nam",
+        "Diện tích": "22,94 ha",
+        "Vị trí": "Quốc lộ 38, phường Duy Hải, thị xã Duy Liêm, tỉnh Hà Nam",
+        "Loại hình": "Biệt thự, shophouse, liền kề",
+        "Chủ đầu tư": "Công ty Cổ phần Kosy"
+    },
+    {
+        "Tên Dự án": "BV Bavella Lạc Ngàn ",
+        "Diện tích": "6,31 ha",
+        "Vị trí": "Đường Vũ Thê Lang, phường Tân Dân, thành phố Việt Trì, tỉnh Phú Thọ",
+        "Loại hình": "Biệt thự, nhà ở liền kề",
+        "Chủ đầu tư": "Công ty Cổ phần Đầu tư Xây dựng Lilama (Lilama Invest)"
+    },
+    {
+        "Tên Dự án": "NHS Trung Văn Hà Nội",
+        "Diện tích": "2,726,1 m2",
+        "Vị trí": "Ô đất HH – 02A Đông Nam, đường Tố Hữu, phường Trung Văn, quận Nam Từ Liêm, Hà Nội",
+        "Loại hình": "Chung cư",
+        "Chủ đầu tư": "liên danh"
+    },
+    {
+        "Tên Dự án": "The Terrace ",
+        "Diện tích": "4,8 ha",
+        "Vị trí": "Khu đô thị số 5, khu đô thị mới Lào Cai, thị xã Cam Đường, phường Bắc Cường, thành phố Lào Cai",
+        "Loại hình": "Biệt thự, shophouse",
+        "Chủ đầu tư": "Công ty TNHH Phát triển Đô thị và Xây dựng 379"
+    },
+    {
+        "Tên Dự án": "The Esme Bình Dương",
+        "Diện tích": "43.147,5 m2",
+        "Vị trí": "Đường Quốc lộ 1K, phường Đông Hòa, thành phố Dĩ An, tỉnh Bình Dương",
+        "Loại hình": "Căn hộ , nhà phố",
+        "Chủ đầu tư": ""
+    },
+    {
+        "Tên Dự án": "Từ Sơn Garden City Đồng Kỵ",
+        "Diện tích": "240 ha",
+        "Vị trí": "Phường Đồng Kỵ, thị xã Từ Sơn, tỉnh Bắc Ninh",
+        "Loại hình": "Đất nền, biệt thự, shophouse, nhà ở xã hội",
+        "Chủ đầu tư": "Công ty TNHH Xây dựng đường 295B"
+    },
+    {
+        "Tên Dự án": "HP Naia City Móng Cái",
+        "Diện tích": "54,8 ha",
+        "Vị trí": "Phường Hải Yên, thành phố Móng Cái, tỉnh Quảng Ninh",
+        "Loại hình": "Biệt thự, shophouse, nhà ở",
+        "Chủ đầu tư": "Công ty cổ phần Đầu tư Hải Phát (Hải Phát Invest)"
+    },
+    {
+        "Tên Dự án": "Central Lake Di Linh Lâm Đồng",
+        "Diện tích": "2,5 ha",
+        "Vị trí": "Đường Ngô Quyền, thị trấn Di Linh, tỉnh Lâm Đồng",
+        "Loại hình": "Đất nền",
+        "Chủ đầu tư": "Công ty Cổ phần Đầu tư và Phát triển Bất động sản Phương Đông Holding"
+    },
+    {
+        "Tên Dự án": "Khu dân cư Phú Quý  ",
+        "Diện tích": "No size",
+        "Vị trí": "xã Hoằng Quý, huyện Hoằng Hóa, tính Thanh Hóa",
+        "Loại hình": "Liền kề, biệt thự",
+        "Chủ đầu tư": "Đơn vị triển khai: Công ty TNHH BNB Hà Nội và Công ty Cổ phần Đầu tư – Xây dựng Tây Hà"
+    },
+    {
+        "Tên Dự án": "Bcons Plaza Bình Dương",
+        "Diện tích": "15.555,7 m2",
+        "Vị trí": "Đường Thống Nhất, phường Đông Hòa, thành phố Dĩ An, tỉnh Bình Dương",
+        "Loại hình": "Nhà phố",
+        "Chủ đầu tư": "Công ty Cổ phần Đầu tư Xây dựng Bcons"
+    },
+    {
+        "Tên Dự án": "Tiền Hải Star City Thái Bình ",
+        "Diện tích": "6,38 ha",
+        "Vị trí": "Xã Tây Sơn, thị trấn Tiền Hải, huyện Tiền Hải, tỉnh Thái Bình",
+        "Loại hình": "Đất nền",
+        "Chủ đầu tư": "Công ty cổ phần Đầu tư Hải Phát"
+    },
+    {
+        "Tên Dự án": "Marina Bayfront Towers Hạ Long",
+        "Diện tích": "10 ha",
+        "Vị trí": "Bán đảo 3 thuộc khu đô thị Hạ Long Marina, phường Bãi Cháy, thành phố Hạ Long, tỉnh Quảng Ninh",
+        "Loại hình": "Căn hộ, shophouse",
+        "Chủ đầu tư": "Công ty Cổ phần Tập đoàn Bim (Bim Group)"
+    },
+    {
+        "Tên Dự án": "Novaworld Da Lat  ",
+        "Diện tích": "No size",
+        "Vị trí": "hồ Đạ Ròn, xã Đạ Ròn, huyện Đơn Dương, tỉnh Lâm Đồng",
+        "Loại hình": "Shophouse, liền kề, biệt thự, căn hộ",
+        "Chủ đầu tư": "Đơn vị phát triển: Novaland"
+    },
+    {
+        "Tên Dự án": "Khu đô thị Xuân Cầu Hưng Yên",
+        "Diện tích": "198,4 ha",
+        "Vị trí": "Thị trấn Văn Giang, huyện Văn Giang, tỉnh Hưng Yên",
+        "Loại hình": "Biệt thự, liền kề, chung cư",
+        "Chủ đầu tư": "Công ty Cổ phần Xuân Cầu Holdings"
+    },
+    {
+        "Tên Dự án": "Đông Phương Diamond Central Kon Tum",
+        "Diện tích": "18.795,7 m2",
+        "Vị trí": "Đường Bà Triệu, phường Quyết Thắng, thành phố Kon Tum",
+        "Loại hình": "TTTM, nhà phố",
+        "Chủ đầu tư": "Công ty Cổ phần Giải pháp Công nghệ CNC"
+    },
+    {
+        "Tên Dự án": "Eurowindow Green Park Yên Bái",
+        "Diện tích": "60,6 ha",
+        "Vị trí": "Tổ dân phố số 4, phường Yên Ninh, thành phố Yên Bái, tỉnh Yên Bái",
+        "Loại hình": "Biệt thự, đất nền, shophouse",
+        "Chủ đầu tư": "Công ty Cổ phần Đầu tư T&M Việt Nam"
+    },
+    {
+        "Tên Dự án": "Vident Center Quảng Nam",
+        "Diện tích": "60.693.57 m2",
+        "Vị trí": "Đường Phan Thúc Duyện, phường Vĩnh Điện và Điện An, thị xã Điện Bàn, tỉnh Quảng Nam",
+        "Loại hình": "Đất nền",
+        "Chủ đầu tư": "Ban quản lý dự án Đầu tư Xây dựng thị xã Điện Bàn"
+    },
+    {
+        "Tên Dự án": "Apec Imperia Boulevard",
+        "Diện tích": "34,7 ha",
+        "Vị trí": "Nằm trong khu đô thị Apec Royal Park, xã Thuỷ Vân, thị xã Hương Thủy, thành phố Huế, tỉnh Thừa Thiên Huế",
+        "Loại hình": "Nhà phố, shophouse, biệt thự",
+        "Chủ đầu tư": "Công ty Cổ phần Tập đoàn Apec Group"
+    },
+    {
+        "Tên Dự án": "Teelhomes Nhật Tân Hà Nam",
+        "Diện tích": "99.104 m2",
+        "Vị trí": "Đường Quốc lộ 1A, xã Nhật Tân, huyện Kim Bảng, tỉnh Hà Nam",
+        "Loại hình": "Đất nền",
+        "Chủ đầu tư": "Công ty Cổ phần Xây dựng Teel Việt Nam"
+    },
+    {
+        "Tên Dự án": "Phố chợ Minh Khai",
+        "Diện tích": "65.372 m2",
+        "Vị trí": "Hai mặt tiền đường Nguyễn Thị Minh Khai và Hoàng Văn Thụ, thành phố Bắc Kạn, tỉnh Bắc Kạn",
+        "Loại hình": "Đất nền",
+        "Chủ đầu tư": "Công ty Cổ phần Tập đoàn Đầu tư Tây Bắc"
+    },
+    {
+        "Tên Dự án": "Diamond Boulevard Bình Dương ",
+        "Diện tích": "6.690 m2",
+        "Vị trí": "Mặt tiền đường QL13, phường Thuận Giao, thành phố Thuận An, tỉnh Bình Dương",
+        "Loại hình": "Căn hộ, shophouse",
+        "Chủ đầu tư": "Công ty Cổ phần Tổng Công ty Tecco Miền Nam"
+    },
+    {
+        "Tên Dự án": "Fenice Paradise Nhơn Trạch - King Bay",
+        "Diện tích": "17,8 ha",
+        "Vị trí": "Đường Lý Tự Trọng, xã Long Tân, Huyện Nhơn Trạch, tỉnh Đồng Nai",
+        "Loại hình": "Nhà phố , biệt thự",
+        "Chủ đầu tư": "Đơn vị phát triển: Công ty Cổ phần Freeland"
+    },
+    {
+        "Tên Dự án": "Khu dân cư Nguyễn Tri Phương",
+        "Diện tích": "9,9 ha",
+        "Vị trí": "Đường Nguyễn Tri Phương, phường Chánh Lộ, thành phố Quảng Ngãi, tỉnh Quảng Ngãi",
+        "Loại hình": "Đất nền",
+        "Chủ đầu tư": "Công ty Cổ phần Đầu tư Xây dựng Dịch vụ Đông Phương"
+    },
+    {
+        "Tên Dự án": "Artisan Park Bình Dương",
+        "Diện tích": "5,6 ha",
+        "Vị trí": "Đường Lê Hoàn, phường Phú Chánh, thị xã Tân Uyên, thành phố Thủ Dầu Một, tỉnh Bình Dương",
+        "Loại hình": "Nhà phố, shophouse",
+        "Chủ đầu tư": "Công ty Cổ phần Gamuda Land"
+    },
+    {
+        "Tên Dự án": "Urban Dream Bàu Bàng",
+        "Diện tích": "30,54 ha",
+        "Vị trí": "Thị trấn Lai Uyên, huyện Bàu Bàng, tỉnh Bình Dương",
+        "Loại hình": "Đất nền",
+        "Chủ đầu tư": "Công ty TNHH MTV Tư vấn Đầu tư Đức Phát"
+    },
+    {
+        "Tên Dự án": "Khu đô thị Rùa Vàng City ",
+        "Diện tích": "79,06 ha",
+        "Vị trí": "Ngã tư QL1A và DT295, thị trấn Vôi, huyện Lạng Giang, tỉnh Bắc Giang",
+        "Loại hình": "Đất nền, biệt thự, shophouse",
+        "Chủ đầu tư": "Công ty Cổ phần Thương mại Tuấn Mai"
+    },
+    {
+        "Tên Dự án": "Khu đô thị Cẩm Văn Bình Định",
+        "Diện tích": "42,5 ha",
+        "Vị trí": "phường Nhơn Hưng, thị xã An Nhơn, tỉnh Bình Định",
+        "Loại hình": "Nhà phố, biệt thự",
+        "Chủ đầu tư": "Công ty Xây dựng và Thương mại Dịch vụ Yến Tùng "
+    },
+    {
+        "Tên Dự án": "Khu đô thị Kosy Ninh Bình",
+        "Diện tích": "40,7 ha",
+        "Vị trí": "Xã Ninh Nhất, thành phố Ninh Bình và xã Ninh Mỹ, huyện Hoa Lư, tỉnh Ninh Bình",
+        "Loại hình": "Đất nền",
+        "Chủ đầu tư": "Tập đoàn Kosy Group"
+    },
+    {
+        "Tên Dự án": "Helios Village Đắk Nông",
+        "Diện tích": "19 ha",
+        "Vị trí": "Hồ Đắk R’Tíh, thành phố Gia Nghĩa, tỉnh Đắk Nông",
+        "Loại hình": "Nhà phố, biệt thự",
+        "Chủ đầu tư": "Công ty Cổ phần BCG Land"
+    },
+    {
+        "Tên Dự án": "DMC Plaza Hạ Long",
+        "Diện tích": "108.000 m2",
+        "Vị trí": "Tổ 3, khu 8, phố Hải Hà, phường Hồng Hải, thành phố Hạ Long, tỉnh Quảng Ninh",
+        "Loại hình": "Căn hộ, shophouse",
+        "Chủ đầu tư": "Công ty Cổ phần Đầu tư Bất động sản Hạ Long"
+    },
+    {
+        "Tên Dự án": "Coco Aqua Riverside Quảng Nam",
+        "Diện tích": "19,65 ha",
+        "Vị trí": "Đường Lạc Long Quân, phường Điện Dương, huyện Điện Bàn, tỉnh Quảng Nam",
+        "Loại hình": "Đất nền",
+        "Chủ đầu tư": "Đơn vị phát triển: Công ty Cổ phần Tập Đoàn VN Đà Thành"
+    },
+    {
+        "Tên Dự án": "Khu đô thị Đồng Văn Green Park ",
+        "Diện tích": "124.178,3 m2",
+        "Vị trí": "Mặt tiền đường QL 38, xã Đại Cương, huyện Kim Bảng, tỉnh Hà Nam",
+        "Loại hình": "Đất nền",
+        "Chủ đầu tư": "Công ty Cổ phần Xây dựng và Phát triển Hạ tầng Kỹ thuật Hà Nam"
+    },
+    {
+        "Tên Dự án": "Quảng Hưng Central Point Thanh Hóa",
+        "Diện tích": "30.226 m2",
+        "Vị trí": "Đường Trịnh Kiểm, phường Quảng Hưng, thành phố Thanh Hóa",
+        "Loại hình": "Đất nền",
+        "Chủ đầu tư": "Công ty TNHH Đầu tư Xây dựng và Phát triển Hạ tầng Hợp Lực"
+    },
+    {
+        "Tên Dự án": "Chung cư Hera Hải Phòng",
+        "Diện tích": "22.403 m2",
+        "Vị trí": "Đường Hồng Bàng, phường Sở Dầu, quận Hồng Bàng, tỉnh Hải Phòng",
+        "Loại hình": "Căn hộ",
+        "Chủ đầu tư": "Công ty Cổ phần Tổ chức Nhà Quốc Gia (N.H.O JSC)"
+    },
+    {
+        "Tên Dự án": "River City Hưng Hóa",
+        "Diện tích": "72.469,60 m2",
+        "Vị trí": "Thị trấn Hưng Hóa, huyện Tam Nông, tỉnh Phú Thọ",
+        "Loại hình": "Đất nền, shophouse",
+        "Chủ đầu tư": "Công ty TNHH Quốc Huy Phú Thọ"
+    },
+    {
+        "Tên Dự án": "Vincom Shophouse Điện Biên",
+        "Diện tích": "13.516,6 m2",
+        "Vị trí": "Số 60B, khu Phố 3, phường Mường Thanh, thành phố Điện Biên Phủ, tỉnh Điện Biên",
+        "Loại hình": "Shophouse",
+        "Chủ đầu tư": "Tập đoàn Vingroup"
+    },
+    {
+        "Tên Dự án": "Đồng Nam Residence Thanh Hóa",
+        "Diện tích": "99.881,8 m2",
+        "Vị trí": "Quốc lộ 47, xã Đông Khê, huyện Đông Sơn, tỉnh Thanh Hóa",
+        "Loại hình": "Đất nền",
+        "Chủ đầu tư": "Đơn vị phát triển: UBND huyện Đông Sơn"
+    },
+    {
+        "Tên Dự án": "The Felix Land Bắc Giang",
+        "Diện tích": "3,2 ha",
+        "Vị trí": "Tỉnh lộ 298, thị trấn Bích Động, huyện Việt Yên, tỉnh Bắc Giang",
+        "Loại hình": "Nhà liền kề, biệt thự",
+        "Chủ đầu tư": "Công ty Cổ phần Xây dựng và Dịch vụ Thương mại Tuấn Quỳnh"
+    },
+    {
+        "Tên Dự án": "Khu đô thị Hùng Vương Vĩnh Phúc",
+        "Diện tích": "82,34 ha",
+        "Vị trí": "Nằm cạnh đường QL2A, phường Hùng Vương và phường Tiền Châu, thành phố Phúc Yên, tỉnh Vĩnh Phúc",
+        "Loại hình": "Đất nền ",
+        "Chủ đầu tư": "Công ty Cổ phần Xây dựng Thăng Long"
+    },
+    {
+        "Tên Dự án": "Thiên Lộc Complex Hà Tĩnh",
+        "Diện tích": "28.053 m2",
+        "Vị trí": "Cạnh ngã ba quốc lộ 1A, xã Thiên Lộc, huyện Can Lộc, tỉnh Hà Tĩnh",
+        "Loại hình": "Đất nền",
+        "Chủ đầu tư": "Công ty Cổ phần Tập đoàn TNT"
+    },
+    {
+        "Tên Dự án": "The Amaris Residences - The Metropole",
+        "Diện tích": "8.572,3",
+        "Vị trí": "Lô 1.17 khu chức năng số 01, Khu đô thị mới Thủ Thiêm, thành phố Thủ Đức, thành phố Hồ Chí Minh",
+        "Loại hình": "Căn hộ",
+        "Chủ đầu tư": "Công ty Cổ phần Quốc Lộc Phát"
+    },
+    {
+        "Tên Dự án": "Loại hình",
+        "Diện tích": "Diện tích ",
+        "Vị trí": "Shophouse The Marina",
+        "Loại hình": "Commercial Villas song lập",
+        "Chủ đầu tư": "Commercial Villas tứ lập"
+    },
+    {
+        "Tên Dự án": "Trust City Hưng Yên",
+        "Diện tích": "2.320 m2",
+        "Vị trí": "Thôn Hạ, xã Cửu Cao, huyện Văn Giang, tỉnh Hưng Yên",
+        "Loại hình": "Căn hộ chung cư",
+        "Chủ đầu tư": "Công ty TNHH Lạc Viên Cửu Cao"
+    },
+    {
+        "Tên Dự án": "Đông Dương Green Hà Tĩnh",
+        "Diện tích": "6,47 ha",
+        "Vị trí": "Xã Cương Gián, huyện Nghi Xuân, tỉnh Hà Tĩnh",
+        "Loại hình": "Đất nền",
+        "Chủ đầu tư": "Công ty Cổ phần Đầu tư Xây dựng và Phát triển Đông Dương"
+    },
+    {
+        "Tên Dự án": "Green Little Town Hà Nội",
+        "Diện tích": "3,2 ha",
+        "Vị trí": "Xã Cổ Bi, huyện Gia Lâm, thành phố Hà Nội",
+        "Loại hình": "Nhà liền kề, shophouse",
+        "Chủ đầu tư": "Công ty cổ Phần Xây lắp 1 – Petrolimex"
+    },
+    {
+        "Tên Dự án": "Phước Long Unique Center Bình Phước",
+        "Diện tích": "1,3 ha",
+        "Vị trí": "Đường DT741, phường Phước Bình, thị xã Phước Long, tỉnh Bình Phước",
+        "Loại hình": "TTTM, shophouse",
+        "Chủ đầu tư": "Đơn vị phát triển: Công ty TNHH MTV Dịch Vụ Thương Mại Sơn Phát"
+    },
+    {
+        "Tên Dự án": "Him Lam Vĩnh Tuy Hà Nội",
+        "Diện tích": "162.391 m2",
+        "Vị trí": "Đường Cổ Linh, phường Long Biên, quận Long Biên, Hà Nội",
+        "Loại hình": "Biệt thự",
+        "Chủ đầu tư": "Đơn vị phát triển: Công ty Cổ phần Đầu tư Vĩnh Tuy"
+    },
+    {
+        "Tên Dự án": "Khu đô thị Minh Quân Central City",
+        "Diện tích": "19,5 ha",
+        "Vị trí": "Tổ 31, phường Duyên Hải, thành phố Lào Cai, tỉnh Lào Cai",
+        "Loại hình": "Đất nền",
+        "Chủ đầu tư": "Công ty TNHH Phát triển Đô thị Minh Quân"
+    },
+    {
+        "Tên Dự án": "Bình Lục New City Hà Nam",
+        "Diện tích": "296.690 m2",
+        "Vị trí": "Thị trấn Bình Mỹ, huyện Bình Lục, tỉnh Hà Nam",
+        "Loại hình": "Đất nền",
+        "Chủ đầu tư": "Công ty TNHH Hải Vượng"
+    },
+    {
+        "Tên Dự án": "Sun Plaza Cầu Mây",
+        "Diện tích": "7.514 m2",
+        "Vị trí": "Vị trí:",
+        "Loại hình": "Shophouse",
+        "Chủ đầu tư": "Công ty TNHH Đầu tư Tây Bắc"
+    },
+    {
+        "Tên Dự án": "FLC Olympia Lào Cai",
+        "Diện tích": "11,45 ha",
+        "Vị trí": "Phường Bình Minh, thành phố Lào Cai, tỉnh Lào Cai",
+        "Loại hình": "Shophouse, biệt thự",
+        "Chủ đầu tư": "Công ty Cổ phần Tập đoàn FLC"
+    },
+    {
+        "Tên Dự án": "King Hill Residences Long An",
+        "Diện tích": "20 ha",
+        "Vị trí": "Đường nối Cao tốc trung Lương, xã Thanh Phú, huyện Bến Lức, tỉnh Long An",
+        "Loại hình": "Nhà phố, shophouse, biệt thự",
+        "Chủ đầu tư": "Đơn vị phát triển: Công ty TNHH Sản xuất Dịch vụ Thương mại Xây dựng Đạt Quang Minh"
+    },
+    {
+        "Tên Dự án": "Khu dịch vụ hỗn hợp Vsip Quảng Ngãi",
+        "Diện tích": "44,7 ha",
+        "Vị trí": "Mặt tiền đường quốc lộ 1A, xã Tịnh Phong, huyện Sơn Tịnh, tỉnh Quảng Ngãi",
+        "Loại hình": "Đất nền",
+        "Chủ đầu tư": "Công ty TNHH Vsip Quảng Ngãi"
+    },
+    {
+        "Tên Dự án": "The Venice City Hậu Giang",
+        "Diện tích": "34,5 ha",
+        "Vị trí": "Đường Lê Hồng Phong, phường 4, xã Vị Tân, thành phố Vị Thanh, tỉnh Hậu Giang",
+        "Loại hình": "Shophouse, nhà phố liền kề, biệt thự",
+        "Chủ đầu tư": "Công ty Cổ phần Liên Minh"
+    },
+    {
+        "Tên Dự án": "Fog Garden Bảo Lộc",
+        "Diện tích": "14.000 m2",
+        "Vị trí": "Phường Lộc Sơn, thành phố Bảo Lộc, tỉnh Lâm Đồng",
+        "Loại hình": "Đất nền",
+        "Chủ đầu tư": "Công ty TNHH Công nghệ và Bất động sản Gia An "
+    },
+    {
+        "Tên Dự án": "Highway5 Residences Hà Nội",
+        "Diện tích": "8,3 ha",
+        "Vị trí": "Lô TQ5, đường Nguyễn Mậu Tài, thị trấn Trâu Quỳ, huyện Gia Lâm, thành phố Hà Nội",
+        "Loại hình": "Liền kề, shophouse",
+        "Chủ đầu tư": "Đơn vị phát triển: Công ty Cổ phần Tập đoàn Thiên Minh Đức"
+    },
+    {
+        "Tên Dự án": "Coco Villa Land Bến Tre",
+        "Diện tích": "4.000 m2",
+        "Vị trí": "Mặt tiền đường quốc lộ 57B, xã Phú Túc, huyện Châu Thành, tỉnh Bến Tre",
+        "Loại hình": "Đất nền ",
+        "Chủ đầu tư": "Công ty Cổ phần Đại Lâm Nghĩa"
+    },
+    {
+        "Tên Dự án": "Nhà ở xã hội Golden Park",
+        "Diện tích": "6,3 ha",
+        "Vị trí": "Xã Phương Liễu, huyện Quế Võ, tỉnh Bắc Ninh",
+        "Loại hình": "Căn hộ",
+        "Chủ đầu tư": "Công ty TNHH MTV Công trình Kim Xương Trí"
+    },
+    {
+        "Tên Dự án": "An Phú Thịnh Quy Nhơn",
+        "Diện tích": "9.391,25 m2",
+        "Vị trí": "Lô B1-32 Khu đô thị mới An Phú Thịnh, phường Nhơn Bình, thành phố Quy Nhơn, tỉnh Bình Định",
+        "Loại hình": "Nhà ở xã hội",
+        "Chủ đầu tư": "Đơn vị phát triển: Công ty Cổ phần Phát triển Đầu tư Xây dựng & Du lịch An Phú Thịnh"
+    },
+    {
+        "Tên Dự án": "Potential Land Bến Tre",
+        "Diện tích": "6.000 m2",
+        "Vị trí": "Liền kề quốc lộ 60, cầu Rạch Miễu 1 và cầu Rạch Miễu 2, xã An Khánh, huyện Châu Thành, tỉnh Bến Tre",
+        "Loại hình": "Đất nền ",
+        "Chủ đầu tư": "Công ty Cổ phần Bất động sản Lâm Nghĩa Land"
+    },
+    {
+        "Tên Dự án": "Evergreen Bắc Giang",
+        "Diện tích": "3,2 ha",
+        "Vị trí": "Lô CT.1, CT.2 thuộc quy hoạch Khu đô thị mới thị trấn Nếnh, huyện Việt Yên, tỉnh Bắc Giang",
+        "Loại hình": "Căn hộ chung cư",
+        "Chủ đầu tư": "Đơn vị phát triển: Liên danh"
+    },
+    {
+        "Tên Dự án": "Khu dân cư Khanh Cát",
+        "Diện tích": "11.599,3 m2",
+        "Vị trí": "Đường Trần Quang Khải, phường Thọ Xương, thành phố Bắc Giang, tỉnh Bắc Giang",
+        "Loại hình": "Biệt thự",
+        "Chủ đầu tư": "Doanh nghiệp Tư nhân Khanh Cát"
+    },
+    {
+        "Tên Dự án": "Florence Quảng Nam",
+        "Diện tích": "26,62 ha",
+        "Vị trí": "phường Vĩnh Điện và Điện Minh thị xã Điện Bàn, tỉnh Quảng Nam",
+        "Loại hình": "Đất nền, shophouse",
+        "Chủ đầu tư": "Đơn vị phát triển: Công ty Cổ phần Xây dựng Công trình Minh Sơn"
+    },
+    {
+        "Tên Dự án": "Green City Bắc Giang",
+        "Diện tích": "16.103 m2",
+        "Vị trí": "Đường Trần Quang Khải, phường Thọ Xương, thành phố Bắc Giang, tỉnh Bắc Giang",
+        "Loại hình": "Căn hộ",
+        "Chủ đầu tư": "Công ty Cổ phần Tập đoàn Tiến Bộ"
+    },
+    {
+        "Tên Dự án": "The Stella Ever Green 2 - Aqua City",
+        "Diện tích": "76,81 ha",
+        "Vị trí": "Đường Xuyên Tâm 45 m, trung tâm đô thị Aqua City, xã Long Hưng, huyện Long Thành, tỉnh Đồng Nai",
+        "Loại hình": "Biệt thự, dinh thự, shophouse",
+        "Chủ đầu tư": "Đơn vị phát triển: Công ty Cổ phần Đầu tư Địa ốc Nova"
+    },
+    {
+        "Tên Dự án": "The Alpha Residence",
+        "Diện tích": "4.755 m2",
+        "Vị trí": "Đường Hoàng Hữu Nam, phường Long Bình, thành phố Thủ Đức, thành phố Hồ Chí Minh",
+        "Loại hình": "Căn hộ",
+        "Chủ đầu tư": "Công ty Cổ phần Ngân Thạnh"
+    },
+    {
+        "Tên Dự án": "Vạn Phát Garden",
+        "Diện tích": "42 ha",
+        "Vị trí": "Gần quốc lộ 1A, phường 7, thành phố Sóc Trăng, tỉnh Sóc Trăng",
+        "Loại hình": "Đất nền",
+        "Chủ đầu tư": "Công ty Cổ phần Tập đoàn Đại Thành Công"
+    },
+    {
+        "Tên Dự án": "Ngọc Thủy Village Lâm Đồng",
+        "Diện tích": "",
+        "Vị trí": "Xã Lộc Ngãi, huyện Bảo Lâm, thành phố Bảo Lộc, tỉnh Lâm Đồng",
+        "Loại hình": "Đất nền",
+        "Chủ đầu tư": "Công ty Cổ phần Đầu tư Bất động sản SHR Land"
+    },
+    {
+        "Tên Dự án": "Miami Homes Vũng Tàu",
+        "Diện tích": "11.578 m2",
+        "Vị trí": "Số 300 Phan Chu Trinh, phường 2, thành phố Vũng Tàu",
+        "Loại hình": "Căn hộ chung cư",
+        "Chủ đầu tư": "Đơn vị phát triển: Tập đoàn Hưng Thịnh"
+    },
+    {
+        "Tên Dự án": "Mộc Châu Central Hill Sơn La",
+        "Diện tích": "6.899,7 m2",
+        "Vị trí": "Quốc lộ 43, thị trấn Nông trường Mộc Châu, huyện Mộc Châu, tỉnh Sơn La",
+        "Loại hình": "Nhà phố",
+        "Chủ đầu tư": "Công ty Cổ phần BMI Mộc Châu"
+    },
+    {
+        "Tên Dự án": "Minh Mạng Residence Thừa Thiên Huế",
+        "Diện tích": "3.500 m2",
+        "Vị trí": "Số 11 đường Minh Mạng, phường Thủy Xuân, Huế, tỉnh Thừa Thiên Huế.",
+        "Loại hình": "Biệt thự, nhà phố",
+        "Chủ đầu tư": "Công ty TNHH Tisco Huế"
+    },
+    {
+        "Tên Dự án": "Sunshine Marina Hội An Quảng Nam",
+        "Diện tích": "2 ha",
+        "Vị trí": "Đường Lạc Long Quân, phường Cẩm An, thành phố Hội An, tỉnh Quảng Nam",
+        "Loại hình": "Căn hộ ",
+        "Chủ đầu tư": "Công ty Cổ phần Tập đoàn Sunshine"
+    },
+    {
+        "Tên Dự án": "Hanoi Melody Residences",
+        "Diện tích": "3, 28 ha",
+        "Vị trí": "Ô đất PT1 và ô đất PT2 khu đô thị mới Tây Nam Linh Đàm, phường Hoàng Liệt, quận Hoàng Mai, thành phố Hà Nội.",
+        "Loại hình": "Shophouse, căn hộ",
+        "Chủ đầu tư": "Công ty Cổ phần Tập đoàn Hưng Thịnh"
+    },
+    {
+        "Tên Dự án": "The Meraki Vũng Tàu",
+        "Diện tích": "3.038 m2",
+        "Vị trí": "Đường 3/2, phường 10, thành phố Vũng Tàu, tỉnh Bà Rịa – Vũng Tàu",
+        "Loại hình": "Căn hộ ",
+        "Chủ đầu tư": "Công ty Cổ phần Du lịch và Đầu tư Xây dựng Châu Á"
+    },
+    {
+        "Tên Dự án": "Mailand Hoàng Đồng",
+        "Diện tích": "600 ha",
+        "Vị trí": "Quốc lộ 1A, thôn Hoàng Trung, xã Hoàng Đồng, thành phố Lạng Sơn",
+        "Loại hình": "Biệt thự, shophouse, đất nền",
+        "Chủ đầu tư": "Công ty Cổ phần Quốc tế Lạng Sơn"
+    },
+    {
+        "Tên Dự án": "Crystal City - Meyhomes Capital Phú Quốc",
+        "Diện tích": "52,22 ha",
+        "Vị trí": "Bãi Trường, phường An Thới, thành phố Phú Quốc, Kiên Giang",
+        "Loại hình": "Nhà phố, shophouse, biệt thự ",
+        "Chủ đầu tư": "Công ty Cổ phần Bất động sản Tập đoàn Tân Á Đại Thành Meyland"
+    },
+    {
+        "Tên Dự án": "Sài Gòn Town Tân Trụ",
+        "Diện tích": "1,1 ha",
+        "Vị trí": "4 mặt tiền đường gồm DT 833, Nguyễn Trung Trực và 2 tuyến đường nội khu tại trung tâm thị trấn Tân Trụ, huyện Tân Trụ, tỉnh Long An.",
+        "Loại hình": "Shophouse",
+        "Chủ đầu tư": "Công ty Cổ phần Đầu tư Bất động sản Vinatown"
+    },
+    {
+        "Tên Dự án": "The Green Farmhouses Lâm Đồng",
+        "Diện tích": "6 ha",
+        "Vị trí": "Xã Nam Hà, huyện Lâm Hà, tỉnh Lâm Đồng",
+        "Loại hình": "Đất nền",
+        "Chủ đầu tư": "Công ty TNHH Thương mại Đầu tư Phát triển Lâm Nguyên"
+    },
+    {
+        "Tên Dự án": "Eden Hills Lâm Đồng",
+        "Diện tích": "Tổng diện tích:",
+        "Vị trí": "xã Đông Thanh, huyện Lâm Hà, tỉnh Lâm Đồng",
+        "Loại hình": "Đất nền ",
+        "Chủ đầu tư": "Công ty Cổ phần Đầu tư Phát triển Master Homes"
+    },
+    {
+        "Tên Dự án": "Versatile Home Tân Phú",
+        "Diện tích": "5.000 m2",
+        "Vị trí": "Đường Nguyễn Sơn, phường Phú Thạnh, quận Tân Phú, thành phố Hồ Chí Minh",
+        "Loại hình": "Nhà phố, biệt thự",
+        "Chủ đầu tư": "Công ty Cổ phần Đầu tư Xây dựng Thương mại Dịch vụ Đại Phát"
+    },
+    {
+        "Tên Dự án": "Ossla Homes Bà Rịa – Vũng Tàu",
+        "Diện tích": "16.345,6 m2",
+        "Vị trí": "Đường HL8, xã Long Phước, thành phố Bà Rịa, tỉnh Bà Rịa – Vũng Tàu",
+        "Loại hình": "Đất nền ",
+        "Chủ đầu tư": "Công ty Cổ phần Bất động sản Ossla"
+    },
+    {
+        "Tên Dự án": "Green House Long Biên",
+        "Diện tích": "30.000 m2",
+        "Vị trí": "Lô đất CT17, Khu đô thị Việt Hưng, phường Việt Hưng, quận Long Biên, thành phố Hà Nội",
+        "Loại hình": "Căn hộ",
+        "Chủ đầu tư": "Công ty Đầu tư Phát triển Nhà và Đô thị HUD"
+    }
+]
